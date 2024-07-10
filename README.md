@@ -1,4 +1,4 @@
-#![ExitVim](https://github.com/pointless-code/exit-vim/assets/18129171/a2a632d6-cacb-44e7-ab13-0112bce53036)
+![ExitVim](https://github.com/pointless-code/exit-vim/assets/18129171/a2a632d6-cacb-44e7-ab13-0112bce53036)
 
 # About ExitVim
 
