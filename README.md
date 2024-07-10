@@ -4,7 +4,7 @@
 
 Relive your early developer days by trying to exit Vim. Good luck! And by the way, Google won't save you!
 
-#### Source code wil be released later as it will spoil the solution
+#### The completed source code will be released later as it will spoil the solution.
 
 ## Pull from docker
 
